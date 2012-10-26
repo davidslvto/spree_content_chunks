@@ -10,7 +10,7 @@ Installation
 
 Include the following in your Gemfile (after the line that includes Spree):
 
-    gem spree_content_chunks
+    gem spree_content_blocks
 
 Then run:
 
